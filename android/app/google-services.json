@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270593696457",
+    "firebase_url": "https://suika-app.firebaseio.com",
+    "project_id": "suika-app",
+    "storage_bucket": "suika-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270593696457:android:c15e9d541a195553602318",
+        "android_client_info": {
+          "package_name": "net.yuu.suika"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270593696457-7kq78llmidavtq7ood7qhdgq6bu2vq5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBikemWhI7UHwnuJURVEvQyBT5ungtbDAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270593696457-7kq78llmidavtq7ood7qhdgq6bu2vq5s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "270593696457-5mq751s4c262g0ho6orugckj2m4s7o27.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.yuu.suika"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

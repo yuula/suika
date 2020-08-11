@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>270593696457-5mq751s4c262g0ho6orugckj2m4s7o27.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.270593696457-5mq751s4c262g0ho6orugckj2m4s7o27</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCDTag__B9aja8XSZqtxv3RkxiI0MMr-e8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>270593696457</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>net.yuu.suika</string>
+	<key>PROJECT_ID</key>
+	<string>suika-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>suika-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:270593696457:ios:156eebe6d700bb72602318</string>
+	<key>DATABASE_URL</key>
+	<string>https://suika-app.firebaseio.com</string>
+</dict>
+</plist>
